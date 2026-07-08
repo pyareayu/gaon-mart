@@ -1,0 +1,82 @@
+[
+  {
+    "id": "vlg_manika",
+    "name": "Manika",
+    "block": "Muzaffarpur Sadar",
+    "distanceKm": 3,
+    "etaMins": 12,
+    "tagline": "Our very first godown"
+  },
+  {
+    "id": "vlg_bishanpur",
+    "name": "Bishanpur",
+    "block": "Muzaffarpur Sadar",
+    "distanceKm": 5,
+    "etaMins": 15,
+    "tagline": "Fresh litchi orchards nearby"
+  },
+  {
+    "id": "vlg_chand",
+    "name": "Chand",
+    "block": "Kanti",
+    "distanceKm": 8,
+    "etaMins": 20,
+    "tagline": "Serving Chand & tola villages"
+  },
+  {
+    "id": "vlg_musahari",
+    "name": "Musahari",
+    "block": "Musahari",
+    "distanceKm": 6,
+    "etaMins": 18,
+    "tagline": "Fast delivery, Musahari block"
+  },
+  {
+    "id": "vlg_kanti",
+    "name": "Kanti",
+    "block": "Kanti",
+    "distanceKm": 12,
+    "etaMins": 25,
+    "tagline": "Home of the thermal power station"
+  },
+  {
+    "id": "vlg_sakra",
+    "name": "Sakra",
+    "block": "Sakra",
+    "distanceKm": 16,
+    "etaMins": 30,
+    "tagline": "Sakra market & nearby tolas"
+  },
+  {
+    "id": "vlg_paroo",
+    "name": "Paroo",
+    "block": "Paroo",
+    "distanceKm": 18,
+    "etaMins": 32,
+    "tagline": "Paroo bazaar coverage"
+  },
+  {
+    "id": "vlg_minapur",
+    "name": "Minapur",
+    "block": "Minapur",
+    "distanceKm": 20,
+    "etaMins": 35,
+    "tagline": "Border of Sitamarhi coverage"
+  },
+  {
+    "id": "vlg_motipur",
+    "name": "Motipur",
+    "block": "Motipur",
+    "distanceKm": 22,
+    "etaMins": 38,
+    "tagline": "Sugar mill town coverage"
+  },
+  {
+    "id": "vlg_bochaha",
+    "name": "Bochaha",
+    "block": "Bochaha",
+    "distanceKm": 14,
+    "etaMins": 28,
+    "tagline": "Bochaha & surrounding villages"
+  }
+]

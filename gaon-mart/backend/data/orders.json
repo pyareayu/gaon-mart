@@ -1,0 +1,69 @@
+[
+  {
+    "id": "ord_mr92icc6sx9mh0",
+    "userId": "usr_mr929a4s2u12x1",
+    "villageId": "vlg_bochaha",
+    "villageName": "Bochaha",
+    "items": [
+      {
+        "productId": "prod_10",
+        "name": "Bhindi (Okra)",
+        "unit": "500 g",
+        "qty": 1,
+        "price": 32,
+        "lineTotal": 32
+      },
+      {
+        "productId": "prod_9",
+        "name": "Green Chilli",
+        "unit": "250 g",
+        "qty": 1,
+        "price": 20,
+        "lineTotal": 20
+      },
+      {
+        "productId": "prod_8",
+        "name": "Tomato",
+        "unit": "1 kg",
+        "qty": 1,
+        "price": 30,
+        "lineTotal": 30
+      },
+      {
+        "productId": "prod_7",
+        "name": "Onion",
+        "unit": "1 kg",
+        "qty": 1,
+        "price": 35,
+        "lineTotal": 35
+      },
+      {
+        "productId": "prod_6",
+        "name": "Potato",
+        "unit": "1 kg",
+        "qty": 1,
+        "price": 22,
+        "lineTotal": 22
+      }
+    ],
+    "subtotal": 139,
+    "deliveryFee": 19,
+    "total": 158,
+    "address": {
+      "label": "Home",
+      "line1": "kaushalya niwas",
+      "landmark": "near manika high school",
+      "phone": "9123140591",
+      "village": "Bochaha"
+    },
+    "paymentMethod": "UPI",
+    "status": "placed",
+    "statusHistory": [
+      {
+        "status": "placed",
+        "at": "2026-07-06T10:19:03.798Z"
+      }
+    ],
+    "createdAt": "2026-07-06T10:19:03.798Z"
+  }
+]

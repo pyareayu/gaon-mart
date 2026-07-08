@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@600;700;800&family=Inter:wght@400;500;600&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body {
+  @apply bg-earth-50 text-earth-900 font-body;
+}
+
+* {
+  scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar {
+  height: 6px;
+  width: 6px;
+}
+::-webkit-scrollbar-thumb {
+  background: #d8cdbd;
+  border-radius: 4px;
+}
+
+.btn-primary {
+  @apply bg-litchi-500 hover:bg-litchi-600 text-white font-semibold rounded-xl px-4 py-2 transition-colors disabled:opacity-50 disabled:cursor-not-allowed;
+}
+
+.btn-secondary {
+  @apply bg-leaf-500 hover:bg-leaf-600 text-white font-semibold rounded-xl px-4 py-2 transition-colors disabled:opacity-50 disabled:cursor-not-allowed;
+}
+
+.btn-outline {
+  @apply border-2 border-leaf-500 text-leaf-600 hover:bg-leaf-50 font-semibold rounded-xl px-4 py-2 transition-colors;
+}
+
+.card {
+  @apply bg-white rounded-xl2 shadow-card;
+}
+
+.focus-ring {
+  @apply outline-none focus-visible:ring-2 focus-visible:ring-litchi-500 focus-visible:ring-offset-2;
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "usr_mr91x4r4r5tsib",
+    "name": "GaonMart Admin",
+    "email": "admin@gaonmart.in",
+    "phone": "9999999999",
+    "passwordHash": "$2a$10$vqAUbCRjdgBht0HdeH/qrOsFIoY9jEVb98EnDCPIUdrg/iW4DJ1Va",
+    "role": "admin",
+    "addresses": [],
+    "createdAt": "2026-07-06T10:02:34.302Z"
+  },
+  {
+    "id": "usr_mr929a4s2u12x1",
+    "name": "Ayush Kumar",
+    "phone": "09123140591",
+    "email": "",
+    "passwordHash": "$2a$10$wmllQqPhhi7obVJH5RVLu.PjTfY1mDJTZcA1OnZDg1YJHyO51.vZ2",
+    "role": "customer",
+    "addresses": [],
+    "createdAt": "2026-07-06T10:12:01.156Z"
+  }
+]

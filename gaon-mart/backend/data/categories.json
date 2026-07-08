@@ -1,0 +1,53 @@
+[
+  {
+    "id": "cat_litchi",
+    "name": "Litchi & Seasonal Fruits",
+    "icon": "🍈",
+    "signature": true
+  },
+  {
+    "id": "cat_fruitveg",
+    "name": "Fruits & Vegetables",
+    "icon": "🥬"
+  },
+  {
+    "id": "cat_dairy",
+    "name": "Dairy & Bread",
+    "icon": "🥛"
+  },
+  {
+    "id": "cat_atta",
+    "name": "Atta, Rice & Dal",
+    "icon": "🌾"
+  },
+  {
+    "id": "cat_masala",
+    "name": "Masala, Oil & Ghee",
+    "icon": "🧂"
+  },
+  {
+    "id": "cat_snacks",
+    "name": "Snacks & Namkeen",
+    "icon": "🍪"
+  },
+  {
+    "id": "cat_beverages",
+    "name": "Beverages",
+    "icon": "🥤"
+  },
+  {
+    "id": "cat_personal",
+    "name": "Personal Care",
+    "icon": "🧴"
+  },
+  {
+    "id": "cat_home",
+    "name": "Home & Cleaning",
+    "icon": "🧹"
+  },
+  {
+    "id": "cat_baby",
+    "name": "Baby Care",
+    "icon": "🍼"
+  }
+]
